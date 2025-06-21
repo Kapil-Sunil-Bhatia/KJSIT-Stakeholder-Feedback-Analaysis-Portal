@@ -43,7 +43,6 @@ INSERT INTO `admin` (`adminid`, `adminname`, `loginid`, `password`, `status`) VA
 (1, 'admin', 'admin', 'admin', 'Active'),
 (6, 'Akash sharma', 'akashsharma', '123456789', 'Active'),
 (7, 'akashk', 'akashk', '123456789', 'Active'),
-(9, 'Jyoti Wadmare', 'Jyoti Wadmare', 'jyoti@123', 'Active');
 
 -- --------------------------------------------------------
 
@@ -70,8 +69,7 @@ CREATE TABLE `alumni` (
 --
 
 INSERT INTO `alumni` (`alumniid`, `alumniname`, `email_id`, `password`, `course_id`, `dateofbirth`, `alumni_no`, `status`, `is_verified`, `verification_code`, `years_id`) VALUES
-(6, 'Dakshita Kolte', 'd.kolte@somaiya.edu', 'Dakshita@123', 1, '2002-10-31', '8454018221', 'Active', 0, '', 2),
-(7, 'Kapil Bhatia', 'kapil.bhatia@somaiya.edu', 'Kapil@10122003', 2, '2003-12-10', '1111111111', 'Active', 0, '', 13);
+(7, 'Kapil Bhatia', 'kapil.bhatia@somaiya.edu', 'Kapil@10', 2, '2003-12-10', '1111111111', 'Active', 0, '', 13);
 
 -- --------------------------------------------------------
 

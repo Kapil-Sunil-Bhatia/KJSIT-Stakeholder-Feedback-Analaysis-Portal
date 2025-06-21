@@ -43,7 +43,6 @@ INSERT INTO `admin` (`adminid`, `adminname`, `loginid`, `password`, `status`) VA
 (1, 'admin', 'admin', 'admin', 'Active'),
 (6, 'Akash sharma', 'akashsharma', '123456789', 'Active'),
 (7, 'akashk', 'akashk', '123456789', 'Active'),
-(9, 'Jyoti Wadmare', 'Jyoti Wadmare', 'jyoti@123', 'Active');
 
 -- --------------------------------------------------------
 

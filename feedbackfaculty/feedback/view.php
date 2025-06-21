@@ -1,8 +1,8 @@
 <?php
 $servername = "184.168.110.223";
-$username = "feedbackportal";
-$password = "*LJ6yYk}78@+";
-$dbname = "faculty_feedback_system";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
