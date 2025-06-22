@@ -131,6 +131,6 @@ flowchart TD
 
 ## 👨‍💻 Authors
 
-- Kapil Sunil Bhatia  
-- Palak Piyush Desai  
+- Kapil Sunil Bhatia
 - Dakshita Sanjay Kolte  
+- Palak Piyush Desai  
