@@ -84,34 +84,6 @@ flowchart TD
 
 ---
 
-## 📁 Folder Structure (Assumed)
-
-```
-/feedback-portal
-│
-├── /admin
-│   ├── create_feedback.php
-│   ├── manage_users.php
-│   └── ...
-│
-├── /student
-│   ├── dashboard.php
-│   ├── submit_feedback.php
-│   └── ...
-│
-├── /assets
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── config.php
-├── index.php
-├── login.php
-└── register.php
-```
-
----
-
 ## 🧠 Future Scope
 
 - Role-based access for academic peers  
