@@ -49,9 +49,9 @@ Best regards,
 <br>
 KJSIT Stakeholders Feedback Analysis Team.";
 
-        $headers = "MIME-Version: 1.0" . "\r\n";
-        $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-        $headers .= 'From: <SIMS-IT>' . "\r\n";
+        $headers = "xxxx" . "\r\n";
+        $headers .= "xxxxx" . "\r\n";
+        $headers .= 'xxxxx' . "\r\n";
         $mail = mail($to, $subject, $message, $headers);
 
         // include "phpmailer.php";
